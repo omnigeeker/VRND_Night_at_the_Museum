@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: bf90ad5e76c04e94589a475b11340105
+timeCreated: 1511008457
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: APQ
+    100002: APQ001
+    100004: APQ002
+    100006: APQ003
+    100008: APQ004
+    100010: APQ005
+    100012: Direct01
+    100014: Direct01.Target
+    100016: F1_8E_JiCang
+    100018: F1_8E_JiCang001
+    100020: F1_8E_JiCang002
+    100022: F1_8E_JiCang003
+    100024: F1_8E_JiCang004
+    100026: F1_8E_JiCang005
+    100028: F1_8E_JiCang006
+    100030: F1_8E_JiCang007
+    100032: Fa18E
+    100034: Fa18E001
+    100036: Fa18E002
+    100038: Fa18E003
+    100040: Fa18E004
+    100042: Fa18E005
+    100044: Fa18E006
+    100046: Fa18E007
+    100048: Fa_18E
+    100050: feiji
+    100052: feiji001
+    100054: feiji002
+    100056: feiji003
+    100058: feiji004
+    100060: feiji005
+    100062: feiji006
+    100064: feiji007
+    100066: LiaoNingJian
+    100068: //RootNode
+    100070: LiaoNingJian_LanGang
+    100072: LiaoNingJian_zhuTi
+    100074: Line01
+    100076: Plane001
+    100078: WaLiangGe
+    100080: WaLiangGe_JianDao
+    100082: WaLiangGe_LanGan
+    400000: APQ
+    400002: APQ001
+    400004: APQ002
+    400006: APQ003
+    400008: APQ004
+    400010: APQ005
+    400012: Direct01
+    400014: Direct01.Target
+    400016: F1_8E_JiCang
+    400018: F1_8E_JiCang001
+    400020: F1_8E_JiCang002
+    400022: F1_8E_JiCang003
+    400024: F1_8E_JiCang004
+    400026: F1_8E_JiCang005
+    400028: F1_8E_JiCang006
+    400030: F1_8E_JiCang007
+    400032: Fa18E
+    400034: Fa18E001
+    400036: Fa18E002
+    400038: Fa18E003
+    400040: Fa18E004
+    400042: Fa18E005
+    400044: Fa18E006
+    400046: Fa18E007
+    400048: Fa_18E
+    400050: feiji
+    400052: feiji001
+    400054: feiji002
+    400056: feiji003
+    400058: feiji004
+    400060: feiji005
+    400062: feiji006
+    400064: feiji007
+    400066: LiaoNingJian
+    400068: //RootNode
+    400070: LiaoNingJian_LanGang
+    400072: LiaoNingJian_zhuTi
+    400074: Line01
+    400076: Plane001
+    400078: WaLiangGe
+    400080: WaLiangGe_JianDao
+    400082: WaLiangGe_LanGan
+    2300000: APQ
+    2300002: APQ001
+    2300004: APQ002
+    2300006: APQ003
+    2300008: APQ004
+    2300010: APQ005
+    2300012: F1_8E_JiCang
+    2300014: F1_8E_JiCang001
+    2300016: F1_8E_JiCang002
+    2300018: F1_8E_JiCang003
+    2300020: F1_8E_JiCang004
+    2300022: F1_8E_JiCang005
+    2300024: F1_8E_JiCang006
+    2300026: F1_8E_JiCang007
+    2300028: Fa18E
+    2300030: Fa18E001
+    2300032: Fa18E002
+    2300034: Fa18E003
+    2300036: Fa18E004
+    2300038: Fa18E005
+    2300040: Fa18E006
+    2300042: Fa18E007
+    2300044: LiaoNingJian_LanGang
+    2300046: LiaoNingJian_zhuTi
+    2300048: Plane001
+    2300050: WaLiangGe_JianDao
+    2300052: WaLiangGe_LanGan
+    3300000: APQ
+    3300002: APQ001
+    3300004: APQ002
+    3300006: APQ003
+    3300008: APQ004
+    3300010: APQ005
+    3300012: F1_8E_JiCang
+    3300014: F1_8E_JiCang001
+    3300016: F1_8E_JiCang002
+    3300018: F1_8E_JiCang003
+    3300020: F1_8E_JiCang004
+    3300022: F1_8E_JiCang005
+    3300024: F1_8E_JiCang006
+    3300026: F1_8E_JiCang007
+    3300028: Fa18E
+    3300030: Fa18E001
+    3300032: Fa18E002
+    3300034: Fa18E003
+    3300036: Fa18E004
+    3300038: Fa18E005
+    3300040: Fa18E006
+    3300042: Fa18E007
+    3300044: LiaoNingJian_LanGang
+    3300046: LiaoNingJian_zhuTi
+    3300048: Plane001
+    3300050: WaLiangGe_JianDao
+    3300052: WaLiangGe_LanGan
+    4300000: LiaoNingJian_zhuTi
+    4300002: LiaoNingJian_LanGang
+    4300004: WaLiangGe_JianDao
+    4300006: WaLiangGe_LanGan
+    4300008: F1_8E_JiCang
+    4300010: Fa18E
+    4300012: F1_8E_JiCang001
+    4300014: Fa18E001
+    4300016: F1_8E_JiCang002
+    4300018: Fa18E002
+    4300020: F1_8E_JiCang003
+    4300022: Fa18E003
+    4300024: Fa18E004
+    4300026: F1_8E_JiCang004
+    4300028: Fa18E005
+    4300030: F1_8E_JiCang005
+    4300032: Fa18E006
+    4300034: F1_8E_JiCang006
+    4300036: Fa18E007
+    4300038: F1_8E_JiCang007
+    4300040: APQ
+    4300042: Plane001
+    4300044: APQ001
+    4300046: APQ002
+    4300048: APQ003
+    4300050: APQ004
+    4300052: APQ005
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Direct01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
