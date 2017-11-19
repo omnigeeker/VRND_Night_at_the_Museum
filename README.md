@@ -7,6 +7,11 @@ the english report is
 the video of the apk is
 - https://youtu.be/BoNOY5mPVTw
 
+the android apk is 
+- https://drive.google.com/file/d/1UySIpsriMH6br5Ez7vGiOForqlwlayQn/view?usp=sharing
+
+下面是中文报告
+
 # 军事博物馆
 
 这个程序创建的是 军事博物馆
