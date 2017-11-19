@@ -2,8 +2,10 @@
 使用Unity开发得博物馆之夜VR程序
 
 the english report is 
-
 - report.md 
+
+the video of the apk is
+- https://youtu.be/BoNOY5mPVTw
 
 # 军事博物馆
 
@@ -12,6 +14,8 @@ the english report is
 ## 结果
 
 ### 视频
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BoNOY5mPVTw" frameborder="0" allowfullscreen></iframe>
 
 ### 截图
 
