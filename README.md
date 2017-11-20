@@ -5,7 +5,7 @@ the english report is
 - report.md 
 
 the video of the apk is
-- https://youtu.be/BoNOY5mPVTw
+- https://youtu.be/DOuxyZmBpyk
 
 the android apk is 
 - https://drive.google.com/file/d/1UySIpsriMH6br5Ez7vGiOForqlwlayQn/view?usp=sharing
@@ -20,7 +20,7 @@ the android apk is
 
 ### 视频
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BoNOY5mPVTw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DOuxyZmBpyk" frameborder="0" allowfullscreen></iframe>
 
 ### 截图
 
