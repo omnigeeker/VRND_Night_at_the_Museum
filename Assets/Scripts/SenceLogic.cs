@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SenceLogic : MonoBehaviour {
 
@@ -23,6 +24,7 @@ public class SenceLogic : MonoBehaviour {
     {
         aircraftCarrierCanvas.active = true;
         wayPoints.active = false;
+        //SceneManager.LoadScene("MovieScene");
     }
 
     public void DectiveAircraftCarrierCanvas()
