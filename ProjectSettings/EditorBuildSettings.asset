@@ -11,6 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MainScene.unity
     guid: 39fb4663242689648b6912314493e496
-  - enabled: 1
-    path: Assets/MovieScene.unity
+  - enabled: 0
+    path: 
     guid: 780cb7bf22d1a3e4abb74d60686d1f3b
